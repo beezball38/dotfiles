@@ -26,6 +26,9 @@ set smartcase               " Case-sensitive if search contains uppercase
 set incsearch               " Search as you type
 set hlsearch                " Highlight matches
 set termguicolors           " Enable true color support
+inoremap jj <Esc>
+
+
 
 " === Plugin Management (vim-plug) ===
 if empty(glob('~/.vim/autoload/plug.vim'))
