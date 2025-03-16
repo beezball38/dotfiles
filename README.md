@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles for unix and linux
+dotfiles and configurations for Unix based systems and text editors
